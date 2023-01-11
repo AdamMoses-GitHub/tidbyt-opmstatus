@@ -4,5 +4,5 @@ Displays the current [OPM Status](https://www.opm.gov/policy-data-oversight/snow
 
 Uses the OPM Status JSON feed at [https://www.opm.gov/json/operatingstatus.json](https://www.opm.gov/json/operatingstatus.json) for updates.
 
-![OPM Status for Tidbyt](screenshot.png)
+![OPM Status for Tidbyt](screenshot.gif)
 
